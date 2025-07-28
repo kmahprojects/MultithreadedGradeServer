@@ -46,6 +46,6 @@ Run this command for the client in a new terminal
 ```bash
 java -cp src/main/java Lab10.Client localhost 1234
 ```
-### How to Run
+### How to Use
 
 Input numeric percentages into the client terminal to receive letter grades from the server. Enter -1 to quit the client.
