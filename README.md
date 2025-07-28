@@ -16,9 +16,6 @@ This project was created as an assignment for one of my classes.
 
 ---
 
-
----
-
 ## Requirements
 
 - Java 8 or higher
